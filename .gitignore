@@ -1,0 +1,8 @@
+.vs/*
+.idea/*
+.vscode/*
+Build/*
+Intermediate/*
+Tools/ReflectionGenerator/__pycache__/*
+Bin/*
+Bin/
